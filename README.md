@@ -15,7 +15,7 @@
 
 [x] Deve ser possível obter dados da conta do cliente
 
-[ ] Deve ser possível deletar uma conta
+[x] Deve ser possível deletar uma conta
 
 ### Regras de negócio
 [x] Não deve ser possível cadastrar uma conta com CPF já existente
@@ -28,5 +28,7 @@
 
 [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 
-[ ] Não deve ser possível excluir uma conta não existente
+[x] Não deve ser possível excluir uma conta não existente
+
+[x] Deve ser possível retornar o balance
 
